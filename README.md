@@ -1,3 +1,7 @@
+## Potenzial und Spannung
+
+Eine Spannung ergibt sich aus der Potentialdifferenz zweier Punkte. Im allgemeinen darstellbar als 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bekiralt/Elektrotechnik/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
